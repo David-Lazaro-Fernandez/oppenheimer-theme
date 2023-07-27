@@ -1,0 +1,21 @@
+{
+  "name": "dark",
+  "displayName": "oppenheimer",
+  "description": "Become the destroyer of worlds in your favorite ide",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-color-theme.json"
+      }
+    ]
+  }
+}
